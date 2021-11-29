@@ -1,0 +1,15 @@
+site_name: FFXIV Guide
+site_author: Hao Tran
+site_description: >-
+  A personal reference guide for FFXIV. 
+
+theme:
+  name: material
+  language: en
+  favicon: assets/favicon.ico
+
+  features:
+    - navigation.tabs
+    - navigation.expand
+    # - toc.integrate
+    # - navigation.top
