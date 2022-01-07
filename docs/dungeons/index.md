@@ -11,9 +11,9 @@ Below you will find quick tips for trash fights and boss encounters. Additionall
 
 ## A Realm Reborn
 
-| Dungeon                                       | Level | Required Item Level | Loot Item Level |
-| :-------------------------------------------- | :---: | :-----------------: | :-------------: |
-| [Sastasha](/dungeons/a-realm-reborn/sastasha) |  15   |          -          |                 |
+| Dungeon                                      | Level | Required Item Level | Loot Item Level |
+| :------------------------------------------- | :---: | :-----------------: | :-------------: |
+| [Sastasha](dungeons/a-realm-reborn/sastasha) |  15   |          -          |       17        |
 
 
 ## Heavensward
