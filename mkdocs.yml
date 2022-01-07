@@ -3,13 +3,58 @@ site_author: Hao Tran
 site_description: >-
   A personal reference guide for FFXIV. 
 
+repo_url: https://github.com/haothitran/ffxiv-guide
+repo_name: haothitran/ffxiv-guide
+
 theme:
   name: material
   language: en
   favicon: assets/favicon.ico
 
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.expand
     # - toc.integrate
-    # - navigation.top
+    - navigation.top
+
+copyright: All artwork, text, and other assets for FINAL FANTASY XIV © 2010-2022 SQUARE ENIX CO., LTD.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/haothitran/ffxiv-guide
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+  - admonition # types: note, abstract, info, tip, success, question, warning, failure, danger, bug, example, quote
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - toc:
+      permalink: ⚓︎
+  # - attr_list
+
+nav: 
+  - Home: index.md
+  - General: 
+    - general/index.md
+    - Jobs: general/jobs.md
+  - Dungeons: dungeons/index.md
+  - Trials: trials/index.md
+  - Raids: raids/index.md
