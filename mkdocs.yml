@@ -27,7 +27,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
-    # - toc.integrate
+    - toc.integrate
     - navigation.top
 
 copyright: All artwork, text, and other assets for FINAL FANTASY XIV © 2010-2022 SQUARE ENIX CO., LTD.
