@@ -116,7 +116,7 @@
 | The Mothercrystal | Hydaelyn      |  89   |         -          |                 |
 | The Final Day     | The Endsinger |  90   |        540         |                 |
 
-| High-End Trial                         | Boss     | Level | Average Item Level | Loot Item Level |
-| :------------------------------------- | :------- | :---: | :----------------: | :-------------: |
-| The Minstrel's Ballad: Zodiark's Fall  | Zodiark  |  90   |        560         |                 |
-| The Minstrel's Ballad: Hydaelyn's Call | Hydaelyn |  90   |        560         |                 |
+| High-End Trial                                                                             | Boss     | Level | Average Item Level | Loot Item Level |
+| :----------------------------------------------------------------------------------------- | :------- | :---: | :----------------: | :-------------: |
+| The Minstrel's Ballad: Zodiark's Fall                                                      | Zodiark  |  90   |        560         |                 |
+| [The Minstrel's Ballad: Hydaelyn's Call](endwalker/the-minstrels-ballad-hydaelyns-call.md) | Hydaelyn |  90   |        560         |                 |
