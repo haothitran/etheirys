@@ -12,32 +12,32 @@
 4. Obtain the Waverider Gate key: 0/1
 5. Defeat Denn the Orcatoothed: 0/1
 
-## Chopper
-
 ???+ tip "Bloody Memo"
-    At the beginning of the dungeon, there is an alcove with a Bloody Memo which will reveal which Coral Formation will spawn the first boss. 
+    At the beginning of the dungeon, there is an alcove to the south where you will find a Bloody Memo. Reading this note will reveal which upcoming Coral Formation will spawn the first boss. 
 
     | Quote                               | Safe Switch |
     | :---------------------------------- | :---------- |
-    | The Capten likes his wine Redd.     | Red         |
-    | The Capten likes his cabege Greene. | Green       |
-    | The Capten likes his sees Bloo.     | Blue        |
+    | The Capten lykes his wine Redd.     | Red         |
+    | The Capten lykes his cabege Greene. | Green       |
+    | The Capten lykes his sees Bloo.     | Blue        |
 
     If your party picks the wrong colour, you will have to face a wave of adds.
 
+## Chopper
+
 - **Charged Whisker** — Avoid circular AoE
-- **Paralysis** — Healers use Esuna to remove debuff from party members
+- Healers use Esuna to remove **Paralysis** debuff from party members
 
 ## Captain Madison
 
 - Boss will flee a number of times:
     1. Kill trash mobs to obtain Captain's Quarters key
-    2. Open the Captain's Quarters and kill Shallowtail Reaver to obtain Waverider Gate key
+    2. Open the Captain's Quarters and kill the Shallowtail Reaver to obtain Waverider Gate key
     3. Open Waverider Gate to progress through rest of dungeon
-- **Accuracy Down** — Healers use Esuna to remove debuff from party members
+- Healers use Esuna to remove **Accuracy Down** debuff from party members
 
 ## Denn the Orcatoothed
 
 - It is possible to nuke the boss before adds spawn
-    - **Unnatural Ripples** — Standing on a grate prevents adds from spawning when `bubbles begin forming on the water's surface`
+    - **Unnatural Ripples** — Standing on a grate prevents adds from spawning when `bubbles begin forming on the water's surface`. There are a total of four grates near the corners of the arena.
 - **Dodgeball** — Avoid frontal cone AoE
