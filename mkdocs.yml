@@ -55,6 +55,8 @@ nav:
   - General: 
     - general/index.md
     - Jobs: general/jobs.md
-  - Dungeons: dungeons/index.md
-  - Trials: trials/index.md
-  - Raids: raids/index.md
+  - Duties:
+    - duties/duty-finder.md
+    - Dungeons: duties/dungeons/index.md
+    - Trials: duties/trials/index.md
+    - Raids: duties/raids/index.md
