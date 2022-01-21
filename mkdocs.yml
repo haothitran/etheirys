@@ -54,12 +54,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - def_list
 
 nav: 
   - Home: index.md
   - General: 
     - general/index.md
     - Jobs: general/jobs.md
+    - Glossary: general/glossary.md
   - Duties:
     - duties/duty-finder.md
     - Dungeons: duties/dungeons/index.md
