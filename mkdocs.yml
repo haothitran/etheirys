@@ -27,8 +27,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
-    # - toc.integrate
-    - navigation.top
+    - toc.integrate # integrate table of contents to left sidebar
+    - navigation.top 
 
 copyright: All artwork, text, and other assets for FINAL FANTASY XIV © 2010-2022 SQUARE ENIX CO., LTD.
 extra:
@@ -47,7 +47,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true 
   - toc:
-      permalink: ⚓︎
+      permalink: ⚓︎ # add anchor links to headers
+      toc_depth: 2 # limit table of contents depth
   # - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true
