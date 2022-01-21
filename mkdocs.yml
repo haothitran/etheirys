@@ -1,10 +1,10 @@
-site_name: FFXIV Guide
+site_name: Etheirys
 site_author: Hao Tran
 site_description: >-
   A personal reference guide for FFXIV. 
 
-repo_url: https://github.com/haothitran/ffxiv-guide
-repo_name: haothitran/ffxiv-guide
+repo_url: https://github.com/haothitran/etheirys
+repo_name: haothitran/etheirys
 
 theme:
   name: material
