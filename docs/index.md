@@ -10,6 +10,6 @@ All content is personally verified by my personal in-game experiences.
     This website is a work in progress. Some information may be incorrect or missing.
 
 !!! bug "Contribution"
-    If you would like to contribute to this project, please submit an [issue](https://github.com/haothitran/ffxiv-guide/issues) or [pull request](https://github.com/haothitran/ffxiv-guide/pulls).
+    If you would like to contribute to this project, please submit an [issue](https://github.com/haothitran/etheirys/issues) or [pull request](https://github.com/haothitran/etheirys/pulls).
 
     Feedback is always appreciated.
