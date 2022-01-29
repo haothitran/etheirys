@@ -25,7 +25,7 @@
 
 ## Chopper
 
-- **Charged Whisker** — Avoid circular AoE
+- **Charged Whisker** — Avoid point blank AoE
 - Healers use Esuna to remove **Paralysis** debuff from party members
 
 ## Captain Madison
@@ -38,6 +38,7 @@
 
 ## Denn the Orcatoothed
 
-- It is possible to nuke the boss before adds spawn
+- Kill boss > adds
+    - It is possible to kill the boss before adds spawn
     - **Unnatural Ripples** — Standing on a grate prevents adds from spawning when `bubbles begin forming on the water's surface`. There are a total of four grates near the corners of the arena.
 - **Dodgeball** — Avoid frontal cone AoE
