@@ -8,3 +8,6 @@
     - `/shout` — Zone-wide
     - `/yell` — Far distance
     - `/say` — Short distance
+- How to emote without chatlog text?
+    - Add `motion` to the end of the emote command
+    - For example: `/wave motion`
