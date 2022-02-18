@@ -12,11 +12,11 @@
 ## General Information
 
 - At minimum, it will take several days to complete your A Realm Reborn relic weapon.
-- Due to its obsolete stats, I would recommend reaching maximum level to have an easier time grinding out this long and tedious quest chain.
+- I would recommend reaching maximum level to have an easier time grinding out this long and tedious quest chain.
 - You can save gil by having all crafting jobs at level 50 or above. However, this is not necessary as you can purchase required crafted items from the Market Board.
 
-!!! danger "Do not discard relic weapon."
-    Be careful to not discard your relic weapon. You will not be able to purchase any of the replicas for glamour without the completed relic weapon in your inventory from [Drake](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/f2cb98f29d2/) (North Shroud, X:30.3, Y:20.1).
+!!! danger "Do not discard relic weapon"
+    Do not discard your relic weapon! You will not be able to purchase any of the replicas without having the completed relic weapon in your inventory from [Drake](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/f2cb98f29d2/) (North Shroud, `X:30.3, Y:20.1`).
     
     If you accidently discarded your relic weapon, you will only be able to get back the initial step of the relic ([Zenith](#2-zenith)) from a Calamity Salvager NPC located in the main cities:
     
@@ -52,19 +52,20 @@
 !!! note ""
     Some items will not be available to purchase at Merchant NPCs until you have reached certain stages.
 
-- 424,000 gil to purchase required items from Merchant NPCs.
-- Even more gil:
+- 424,000+ gil:
+    - To purchase required items from Merchant NPCs.
     - For teleport fees.
-    - For materia unless you have a substantial amount of Materia I, II, III, and IV.
+    - For materia, unless you have a substantial amount of Materia I, II, III, and IV.
     - *(If you cannot craft)* For purchasing crafted items from the Market Board.
-- 1850 *(or 2975)* Allagan Tomestones of Poetics:
+- 80,000 Grand Company Seals:
+    - 80,000 for Bombard Core (20,000 each x4)
+- 1850—2975 Allagan Tomestones of Poetics:
     - 15 for Radz-At-Han Quenching Oil (x1)
     - 60 for Thavnairian Mist (20 each x3)
     - 900 for Trials of the Braves books (100 each x9)
     - 75 for Superior Enchanted Ink (25 each x3)
     - 800 for Sacred Spring Water (200 each x4)
-    - *(Optional)* 1125 for Mysterious Maps (75 each x15) — Used for acquiring Alexandrite. However, this is an optional cost because there are other methods for acquiring Alexandrite. These other methods are time-gated.
-- 80,000 Grand Company Seals for Bombard Core (20,000 each x4)
+    - *(Optional)* 1125 for Mysterious Maps (75 each x15) — Used for acquiring Alexandrite. However, this is an optional cost because there are other methods for acquiring Alexandrite. Unfortunately, these other methods are time-gated.
 
 ## 1. Base Relic
 
@@ -76,21 +77,26 @@
 
 ### The Weaponsmith of Legend
 
-1. Travel to Western Thanalan and speak with [Nedrick Ironheart](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d2443942446/) (`X:12, Y:14.3`) to pick up the quest [The Weaponsmith of Legend](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/b72db0c1975/).
+1. Speak with [Nedrick Ironheart](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/d2443942446/) (Western Thanalan, `X:12, Y:14.3`) to pick up the quest: [The Weaponsmith of Legend](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/b72db0c1975/)
     - You will only have to do this once per character.
     - Your next relic weapons will start from [A Relic Reborn](#a-relic-reborn) step.
-2. Travel to Mor Dhona and speak with Rowena (`X:21.9, Y:4.9`).
-3. Travel to the North Shroud and speak with [Gerolt](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/c385edb82f2/) (`X:30.2, Y:20.2`).
+2. Speak with [Rowena](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/5f16dc7f440/) (Mor Dhona, `X:21.9, Y:4.9`).
+3. Speak with [Gerolt](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/c385edb82f2/) (North Shroud, `X:30.2, Y:20.2`).
 
 ### A Relic Reborn
 
+!!! note
+    - You must complete dungeons and trials as your chosen job to obtain the relic weapon.
+    - You can complete dungeons and trials unsynced in an Unrestricted Party.
+    - You will receive required items from dungeons and trials upon leaving the duty.
+
 #### Timeworn Weapon
 
-1. Locate and obtain the timeworn weapon. This location is job-specific.
+1. Locate and obtain the timeworn weapon which is job-specific.
 2. Report back to Gerolt.
 3. Purchase or craft the required weapon, then attach two specific Materia III.
     - For some gil, Materia Melder NPCs in major cities can meld Materia for you.
-    - If you want to meld yourself, you must have completed the quest: [Waking the Spirit](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/494c4ff8e5a/).
+    - If you want to meld yourself, you must have completed the quest: [Waking the Spirit](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/494c4ff8e5a/)
 4. Report back to Gerolt.
 
 ??? info "Required Crafted Weapons and Materia III"
@@ -107,25 +113,21 @@
     | White Mage | Madman's Whispering Rod       | Quicktongue Materia III (x2)  |
     | Scholar    | Erudite's Picatrix of Healing | Quicktongue Materia III (x2)  |
 
-!!! danger "Purchasing Crafted Weapons and Materia III from the Market Board"
+!!! warning "Purchasing Crafted Weapons and Materia III from the Market Board"
     - If you are purchasing already melded weapons from the Market Board, ensure that the correct materia are melded before making your purchase. For example, if you are a Bard, do not purchase a Longarm's Composite Bow with two melded Battledance Materia III. You want a Longarm's Composite Bow with two melded Heavens' Eye Materia III. 
 
 #### The Chimera
 
 1. Travel to Coerthas Central Highlands and examine the destination point.
-2. Enter the trial A Relic Reborn: The Chimera as your chosen job.
-    - You can do this unsynced in an Unrestricted Party.
-3. Defeat the Dhorme Chimera to obtain the required Alumina Salts upon exiting the trial.
-4. Report back to Gerolt.
+2. Complete A Relic Reborn: The Chimera.
+3. Report back to Gerolt.
 
 #### Amdapor Glyphs
 
 1. Speak with Rowena.
-2. Enter Amdapor Keep as your chosen job.
-    - You can do this unsynced in an Unrestricted Party.
-3. Complete the dungeon to obtain the required Amdapor Glyph.
-4. Report back to Rowena and receive a book.
-5. Deliver the book to Gerolt.
+2. Complete Amdapor Keep.
+3. Report back to Rowena and receive a book.
+4. Deliver the book to Gerolt.
 
 #### Slaying Beastmen
 
@@ -150,27 +152,23 @@
 #### The Hydra
 
 1. Travel to Eastern Thanalan and examine the destination point.
-2. Enter the trial A Relic Reborn: The Hydra with the unfinished weapon equipped.
-    - You can do this unsynced in an Unrestricted Party.
-3. Defeat the Hydra.
-4. Report back to Gerolt with your unfinished weapon unequipped.
+2. Complete A Relic Reborn: The Hydra with the unfinished weapon equipped.
+3. Report back to Gerolt with your unfinished weapon unequipped.
 
 #### Primals
 
-1. Enter and complete the following trials as your chosen job:
+1. Complete the following trials:
     1. The Bowl of Embers (Hard)
     2. The Howling Eye (Hard)
     3. The Navel (Hard)
 2. Report back to Gerolt.
 
-!!! note
-    - You will receive the required items upon exiting the trials.
 
 #### Radz-At-Han Oil
 
-1. Travel to Revenant's Toll in Mor Dhona and speak with [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (`X:22.7 Y:6.6`). 
-    - Select dialogue option: `Allagan Tomestones of Poetics (Special Arms)` > `Others`
-    - Purchase Radz-At-Han Quenching Oil (x1) for 15 Allagan Tomestones of Poetics.
+1. Purchase Radz-At-Han Quenching Oil (x1) for 15 Poetics.
+    - Sold by [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (Mor Dhona, `X:22.7, Y:6.6`) > `Special Arms` > `Others`
+    - Sold by Rowena's Representatives in main cities > `Combat Supplies` > `Special Arms Materials`
 2. Report back to Gerolt.
 3. Congratulations! You have completed this stage.
 
@@ -179,18 +177,18 @@
 !!! summary "Cost"
     - 60 Allagan Tomestones of Poetics for Thavnairian Mist (20 each x3)
 
-1. Travel Mor Dhona and speak with [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (`X:22.7, Y:6.6`). 
-    - Purchase Thavnairian Mist (x3) for 20 Allagan Tomestones of Poetics each for a total of 60 Allagan Tomestones of Poetics.
-    - Select dialogue option: `Allagan Tomestones of Poetics (Special Arms)` > `Others`
-2. In North Shroud, use the furnace (`X:30.4, Y:20`) near Gerolt to combine your base relic weapon with the Thavnairian Mists.
+1. Purchase Thavnairian Mist (x3) for 20 Poetics each for a total of 60 Poetics.
+    - Sold by [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (Mor Dhona, `X:22.7, Y:6.6`) > `Special Arms` > `Others`
+    - Sold by Rowena's Representatives in main cities > `Combat Supplies` > `Special Arms Materials`
+2. Use the furnace (North Shroud, `X:30.4, Y:20`) to combine your base relic weapon with the Thavnairian Mists.
 3. Congratulations! You have completed this stage.
 
 ## 3. Atma
 
 1. Speak with Gerolt with your relic weapon equipped.
 2. Speak with [Jalzahn](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/cd1713e6dc7/) (`X:29.5, Y:19.6`).
-3. Collect 12 varieties of Atma crystals from successfully completing FATEs in specific zones.
-4. Report back to Jalzahn:
+3. Collect 12 types of Atma crystals from successfully completing FATEs in specific zones.
+4. Report back to Jalzahn.
     - Unequip your relic weapon.
     - Have the 12 types of Atma crystals in your inventory.
     - Select dialogue option: `Relic Weapon Zenith Enhancement`
@@ -199,7 +197,7 @@
 !!! info "Collecting Atma"
     - You must have a Zenith relic weapon equipped to get Atma.
     - Any FATE in the specified zone can drop Atma, but it must be successfully completed.
-    - Atma crystals are not a guaranteed drop. You can get one from the first FATE you do in a zone, or it can be from the 20th FATE. Hopefully luck is on your side!
+    - Atma crystals are not a guaranteed drop. You can get one from the first FATE you do in a zone, or it can be from the 20th FATE. 
 
     | Region           | Zone              | Atma                     |
     | :--------------- | :---------------- | :----------------------- |
@@ -218,14 +216,14 @@
 
     ![](assets/zodiac-weapons_atma.png)
 
-!!! tip
-    - When you receive an Atma, there will be an in-game popup notification. You can't miss it!
-    - Atma will go into your inventory. Ensure that you have enough free inventory space!
-    - You only need one type of Atma per relic weapon.
-    - This is a a good opportunity to train your Chocobo companion in combat.
+    !!! tip
+        - When you receive an Atma, there will be an in-game popup notification. You can't miss it!
+        - Atma will go into your inventory. Ensure that you have enough free inventory space!
+        - You only need one type of Atma per relic weapon.
+        - This is a a good opportunity to train your Chocobo companion in combat.
 
-!!! example "Personal Experience"
-    It took me close to three hours to collect all Atma crystals.
+    !!! example "Personal Experience"
+        It took me close to three hours to collect all Atma crystals.
 
 ## 4. Animus
 
@@ -233,9 +231,9 @@
     - 900 Allagan Tomestones of Poetics for Trials of the Braves books (100 each x9)
 
 1. Speak with Jalzahn with your relic weapon equipped.
-2. Travel Mor Dhona and speak with  [G'jusana](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/740bd200eb8/) (`X:22.9, Y:7.3`).
+2. Speak with [G'jusana](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/740bd200eb8/) (Mor Dhona, `X:22.9, Y:7.3`).
     - She will sell you the nine required books, but you can only have one book at a time.
-    - Each book will cost 100 Allagan Tomestones of Poetics for a total of 900 Allagan Tomestones of Poetics.
+    - Each book will cost 100 Poetics for a total of 900 Poetics.
 3. Complete tasks in all nine Trial of the Braves books.
     - You can complete the books in any order.
     - In each book, your tasks will be:
@@ -252,7 +250,8 @@
     - Unequip your relic weapon.
     - Select dialogue option: `Relic Weapon Atma Enhancement`
 5. Congratulations! You have completed this stage.
-    - For whatever reason, the last book will remain in your inventory. To remove it, return to G'jusana and select dialogue option: `Disposal`
+    - For whatever reason, the last book will remain in your `Key Items` inventory. 
+    - To remove the last book, return to G'jusana and select dialogue option: `Disposal`
 
 !!! tip
     - You must have your Atma relic weapon equipped when purchasing a book and completing tasks.
@@ -263,7 +262,7 @@
         - If you do not see your required FATE, then you can clear other FATEs in the zone to try to force the one you need to spawn. Or wait for currently active FATEs to time out.
         - Some FATEs are triggered after certain events (e.g. after speaking with an NPC)
     - For leves:
-        - There are two types of levequest NPCs — one for general leves and one for Grand Company leves. Ensure that you are speaking to the correct one.
+        - There are two types of levequest NPCs — one for general leves and one for Grand Company leves. Ensure that you are speaking to the correct NPC.
         - If you do not see your required levequest, then you can clear out other levequests to try to force the one you need to spawn.
         - To start a levequest:
             1. Pick up the levequest.
@@ -577,32 +576,33 @@
 
 !!! summary "Cost"
     - 75 Allagan Tomestones of Poetics for Superior Enchanted Ink (25 each x3)
-    - ***(Optional)*** 1125 Allagan Tomestones of Poetics for Mysterious Maps (75 each x15)
+    - *(Optional)* 1125 Allagan Tomestones of Poetics for Mysterious Maps (75 each x15)
     - You will need a lot of Materia I, II, III and/or IV, or gil to purchase them from the Market Board.
 
 ### Celestial Radiance
 
 1. Speak with Jalzahn with your relic weapon equipped.
-2. Travel to Central Thanalan and speak with [Mutamix Bubblypots](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/cd74a28508b/) (`X:23.7, Y:13.6`).
-3. Speak with Hubairtin (`X:23.5, Y:13.7`).
-4. Travel to Mor Dhona and speak with Rowena.
-5. Speak with Auriana.
-    - Select dialogue option: `Allagan Tomestones of Poetics (Special Arms)` > `Others`
-    - Purchase Superior Enchanted Ink (x3) for 25 Allagan Tomestones of Poetics each for a total of 75 Allagan Tomestones of Poetics.
+2. Speak with [Mutamix Bubblypots](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/cd74a28508b/) (Central Thanalan, `X:23.7, Y:13.6`).
+3. Speak with Hubairtin (Central Thanalan, `X:23.5, Y:13.7`).
+4. Speak with Rowena.
+5. Purchase Superior Enchanted Ink (x3) for 25 Poetics each for a total of 75 Poetics.
+    - Sold by [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (Mor Dhona, `X:22.7, Y:6.6`) > `Special Arms` > `Others`
+    - Sold by Rowena's Representatives in main cities > `Combat Supplies` > `Special Arms Materials`
 6. Report back to Hubairtin.
 
 ### Star Light, Star Bright
 
-1. Report to Jalzahn.
+1. Speak with Jalzahn.
 2. Speak with Hubairtin.
     - Select dialogue option: `Sphere Scrolls` > `Obtain a sphere scroll`
 3. Complete your Sphere Scroll by successfully binding 75 materia of various grades.
-    - However, you cannot bind materia the conventional way. You will need Alexandrite to bind each materia.
+    - However, you cannot bind materia the conventional way.
+    - You will need Alexandrite (x75) to bind materia.
 
     !!! question "Where to get Alexandrite?"
-        - Complete FATEs with an Animus zodiac weapon equipped. It will drop randomly.
-        - Purchased from your Grand Company's Hunt Billmaster for Allied Seals.
-        - From treasure chests from Mysterious Maps.
+        1. Complete FATEs with an Animus zodiac weapon equipped. It will drop randomly.
+        2. Purchased from your Grand Company's Hunt Billmaster for 50 Allied Seals each for a total of 3,750 Allied Seals.
+        3. From treasure chests from Mysterious Maps.
             - Requires completed quest: [Treasures and Tribulations](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/66be24fd65b/)
             - Allows you the ability to `Actions & Traits` > `General` > `Decipher` and `Dig` treasure maps.
             - See more information about this method below.
@@ -612,16 +612,14 @@
     - Select dialogue option: `Relic Weapon Animus Enhancement`
 5. Congratulations! You have completed this stage.
 
-
-
 ??? info "Mysterious Maps: Method 1 — Daily Duty Roulette" 
-    1. Travel to North Shroud and speak with Ealdwine to pick up quest: [One Man's Trash](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e07310dc045/)
-    2. Travel to Mor Dhona and speak with [Brangwine](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/2936f6414cc/) (`X:21.9, Y:6.7`).
+    1. Speak with Ealdwine (North Shroud, `X:29.5, Y:19.7`) to pick up quest: [One Man's Trash](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e07310dc045/)
+    2. Speak with [Brangwine](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/2936f6414cc/) (Mor Dhona, `X:21.9, Y:6.7`).
     3. She will offer a daily quest [Morbid Motivation](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/ff0d9aa6841/) which will reward one Mysterious Map. This quest requires you to complete a Duty Roulette.
 
-??? info "Mysterious Maps: Method 2 — 1125 Allagan Tomestones of Poetics"
+??? info "Mysterious Maps: Method 2 — Purchase with 1,125 Allagan Tomestones of Poetics"
     1. Speak to Auriana > `Mysterious Map Exchange`
-        - Purchase a Mysterious Map (x15) for 75 Allagan Tomestones of Poetics each for a total of 1125 Allagan Tomestones of Poetics.
+        - Purchase a Mysterious Map (x15) for 75 Poetics each for a total of 1,125 Poetics.
         - You can only hold a maximum of three Mysterious Maps at a time.
     2. Deciper the map in your inventory by right-clicking the map > `Decipher`
         
@@ -634,7 +632,7 @@
         2. Buy a second map and `decipher` it.
         3. Buy a third map and leave it in your inventory.
 
-        Doing this allows you to do three maps at once which means that you will only need to return to Auriana five times to to get all the Alexandrite you need.
+        Doing this allows you to hold three maps at the same time which means that you will only need to return to Auriana five times to to get all the Alexandrite you need.
 
     ??? example "Example of a Mysterious Map"
         ![](assets/zodiac-weapons_alexandrite-map.png)
@@ -654,21 +652,20 @@
 ## 6. Nexus
 
 1. Speak with Jalzahn with your relic weapon equipped.
-2. Speak with Gerolt.
-3. Speak with Jalzahn again.
-4. After the cutscene, speak with Jalzahn again to receive the Zodiac Glass.
-5. Speak with Jalzahn again.
+    - Play messenger between Jalzahn and Gerolt a couple times.
+    - You will eventually receive a Zodiac Glass from Jalzahn.
+2. Speak with Jalzahn again.
     - Select dialogue option:`Relic Weapon Novus Soulglazing`
-6. Earn 2000 light points by completing various activities:
-    - A Realm Reborn dungeons
-    - A Realm Reborn trials
+3. Earn 2000 light points by completing various activities:
     - A Realm Reborn FATEs
+    - A Realm Reborn trials
+    - A Realm Reborn dungeons
     - Alexandrite Maps
-7. You have earned enough light when your weapon is `bursting with aetheric activity. Soul attunement complete!`
-8. Report back to Jalzahn.
+4. You have earned enough light when your weapon is `bursting with aetheric activity. Soul attunement complete!`
+5. Report back to Jalzahn.
     - Unequip your Novus weapon.
     - Select dialogue option: `Relic Weapon Novus Enhancement`
-9. Congratulations! You have completed this stage. 
+6. Congratulations! You have completed this stage. 
 
 !!! info "Light Points"
     - You will need to obtain 2000 light points. However, there is no numerical indicator in the game. Instead, you can use the Zodiac Glass to determine your progress:
@@ -719,9 +716,9 @@
         | The World of Darkness         | ?            |     ?      |      ?      |
 
 !!! example "Personal Experience"
-    I would recommend running The Aurum Vale unsycned repeatedly until you have earned all 2000 light points. It is less tedious than running Sastasha or Tam-Tara Deepcroft because you don't have to interact with anything to progress through the dungeon. You can run through all enemies except 3 Goldvine morbols to open walls and the 3 bosses. At the end of the dungeon, open the `Duty Finder` > `Leave` to quickly exit the duty. If you try to exit through the portal at the end, you risk being interrupted by all the enemies you skipped that followed you.
+    I would recommend running The Aurum Vale unsycned repeatedly until you have earned all 2000 light points. It is less tedious than running Sastasha or Tam-Tara Deepcroft because you don't have to interact with anything to progress through the dungeon. You only have to kill 6 enemies. You can run through all enemies except 3 Goldvine morbols to open walls and the 3 bosses. At the end of the dungeon, open the `Duty Finder` > `Leave` to quickly exit the duty. If you try to exit through the portal at the end, you risk being interrupted by all the enemies you skipped that followed you.
     
-    As a level 90 Bard, one Aurum Vale run took about 2 minutes and 15 seconds and gave Brilliant light (48 points). Thus, it will take 42 runs of Aurum Vale to acquire enough light points.
+    As a level 90 Bard, one Aurum Vale run took about 2 minutes and 10 seconds and gave Brilliant light (48 points). Thus, it will take 42 runs of Aurum Vale to acquire enough light points. Otherwise stated, about two hours of continuous farming.
 
 ## 7. Zodiac Braves
 
@@ -739,12 +736,12 @@
 
 ### Obtain All the Things
 
-1. Pick up four quests:
-    - A Labour of Love from Guiding Star in Mor Dhona (`X:21.9, Y:6.9`)
-    - A Treasured Mother from Brangwine in Mor Dhona (`X:21.9, Y:6.7`)
+1. Complete four quests:
+    - [A Labor of Love](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/cd22a5b2b9e/) from Guiding Star (Mor Dhona, `X:21.9, Y:6.9`)
+    - [A Treasured Mother](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/bc589dd6bff/) from Brangwine (Mor Dhona, `X:21.9, Y:6.7`)
         - If the quest is not available for you, then you have to complete quest: [One Man's Trash](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e07310dc045/)
-    - A Ponze of Flesh from Papana in Mor Dhona (`X:22.9, Y:7.3`)
-    - Method in His Malice from Adkin in Central Thanalan (`X:23.6, Y:13.7`)
+    - [A Ponze of Flesh](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/69755431807/) from Papana (Mor Dhona, `X:22.9, Y:7.3`)
+    - [Method in His Malice](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/484dab85cd3/) from Adkin (Central Thanalan, `X:23.6, Y:13.7`)
 2. Each quest requires:
     - 20,000 Grand Company seals
     - 200 Allagan Tomestones of Poetics
@@ -762,23 +759,23 @@
 ??? info "Purchased Items"
     - Some items will not be available to purchase at Merchant NPCs until you have reached certain steps.
 
-    | Item                    | Cost             | Location                                                           |
-    | :---------------------- | :--------------- | :----------------------------------------------------------------- |
-    | Allaghan Resin (x1)     | 100,000 gil      | Southern Thanalan<br>Merchant & Mender (`X:15.9, Y:29`)            |
-    | Brass Kettle (x1)       | 100,000 gil      | North Shroud<br>Tool Supplier & Mender (`X:29.8, Y:18.9`)          |
-    | Bronze Lake Crystal     | 100,000 gil      | Upper La Noscea<br>Junkmoner (`X:26.1, Y:26.4`)                    |
-    | Furite Sand             | 100,000 gil      | Coerthas Central Highlands<br>Merchant & Mender (`X:13.2, Y:15.9`) |
-    | Sacred Spring Water(x4) | 800 Poetics      | Mor Dhona — Auriana<br>Any Main City — Rowena's Representatives    |
-    | Bombard Core (x4)       | 80,0000 GC seals | Your chosen Grand Company's Quartermaster                          |
+    | Item                    | Cost                        | Location                                                           |
+    | :---------------------- | :-------------------------- | :----------------------------------------------------------------- |
+    | Allaghan Resin (x1)     | 100,000 gil                 | Southern Thanalan<br>Merchant & Mender (`X:15.9, Y:29`)            |
+    | Brass Kettle (x1)       | 100,000 gil                 | North Shroud<br>Tool Supplier & Mender (`X:29.8, Y:18.9`)          |
+    | Bronze Lake Crystal     | 100,000 gil                 | Upper La Noscea<br>Junkmoner (`X:26.1, Y:26.4`)                    |
+    | Furite Sand             | 100,000 gil                 | Coerthas Central Highlands<br>Merchant & Mender (`X:13.2, Y:15.9`) |
+    | Sacred Spring Water(x4) | 800 Poetics                 | [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (Mor Dhona, `X:22.7, Y:6.6`)<br>Rowena's Representatives in main cities     |
+    | Bombard Core (x4)       | 80,0000 Grand Company seals | Your chosen Grand Company's Quartermaster                          |
 
 ??? info "Crafted Items"
     - To craft:
-        - You must be able to craft the first tier of the Master Recipes (1) book for each job which can be purchased from Talan in Mor Dhona (`X:21.9, Y:6.8`).
+        - You must be able to craft the first tier of the Master Recipes (1) book for each job which can be purchased from Talan (Mor Dhona, `X:21.9, Y:6.8`).
         - You must be able to desynthesize items from each crafting job.
-        - Each recipe requires an ingredient that is desynthesized from an item sold by the Merchant & Mender in Western Thanalan (`X:15, Y:29`) for 3,000 gil.
+        - Each recipe requires an ingredient that is desynthesized from an item sold by the Merchant & Mender (Western Thanalan, `X:15, Y:29`) for 3,000 gil.
     - Or you can purchase these items from the Market Board. Ensure you are purchasing high-quality items!
 
-    | Item                     | Class         | Desynth Ingredient     | Source Item   |
+    | Required Item            | Crafter       | Desynth Ingredient     | Source Item   |
     | :----------------------- | :------------ | :--------------------- | :------------ |
     | Perfect Pounce (HQ)      | Alchemist     | Dried Ether            | Aged Phial    |
     | Perfect Mortar (HQ)      | Armorer       | Aged Mortar Pieces     | Aged Mortar   |
@@ -804,9 +801,10 @@
 2. Speak with Gerolt.
 3. Speak with Rowena.
 4. Report back to Gerolt.
-5. Speak Remon in Western La Noscea (`X:34.3, Y:31.7`).
-6. Purchase 12 Mahatmas from Remon and complete activities with your relic weapon equipped to increase its soul resonance. This will be similar to light farming.
+5. Speak with Remon (Western La Noscea, `X:34.3, Y:31.7`).
+6. Purchase 12 Mahatmas from Remon and complete activities with your relic weapon equipped to increase its soul resonance. 
     - You can only purchase one Mahatma at a time from `Mahatma Exchange`.
+    - Each Mahatma will cost 50 Poetics for a total of 600 Poetics.
     - You can check the level of soul resonance by using the Zodiac Glass.
     - You are not able to purchase the next Mahatma until the one you have has reached full soul resonance.
 7. Report back to Jalzahn.
@@ -815,7 +813,10 @@
 8. Congratulations! You have completed your A Realm Reborn relic weapon. 
 
 !!! info "Mahatmas"
+    List of Mahatma:  
     ![](assets/zodiac-weapons_mahatmas.png)
+
+    Using the Zodiac Glass to check soul resonance level of a Mahatma:  
     ![](assets/zodiac-weapons_mahatma-complete.png)
 
 !!! example "Personal Experience"
@@ -828,4 +829,5 @@
 1. Speak to Jalzahn.
 2. Speak with Gerolt.
 
-You will now be able to speak to Drake in North Shroud (`X:30.3, Y:20.1`) and receive replicas of every stage of your Zodiac weapon. Select dialogue option: `Zodiac Weapon Zeta Replication`
+!!! info "Replicas"
+    You will now be able to speak to Drake (North Shroud, `X:30.3, Y:20.1`) and purchase replicas of every stage of your Zodiac weapon. Select dialogue option: `Zodiac Weapon Zeta Replication`
