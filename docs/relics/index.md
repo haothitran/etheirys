@@ -12,7 +12,7 @@ Relics are special weapons and/or armour that involve a significant amount of ti
 | Expansion      | Final Stage                            |
 | :------------- | :------------------------------------- |
 | A Realm Reborn | [Zodiac Weapons](zodiac-weapons.md)    |
-| Heavensward    | Anima Weapons                          |
+| Heavensward    | [Anima Weapons](anima-weapons.md)      |
 | Stormblood     | Eurekan Weapons<br>Eurekan Armor       |
 | Shadowbringers | Resistance Weapons<br>Resistance Armor |
 | Endwalker      | TBA                                    |
