@@ -43,13 +43,13 @@ markdown_extensions:
   - tables
   - admonition # types: note, abstract, info, tip, success, question, warning, failure, danger, bug, example, quote
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences # allows nesting content blocks
   - pymdownx.tabbed:
       alternate_style: true 
   - toc:
       permalink: ⚓︎ # add anchor links to headers
       toc_depth: 2 # limit table of contents depth
-  # - attr_list
+  - attr_list # allows HTML and CSS to Markdown elements
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
