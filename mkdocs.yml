@@ -62,6 +62,7 @@ nav:
   - General: 
     - general/index.md
     - Jobs: general/jobs.md
+    - Chat Log: general/chat-log.md
     - Glossary: general/glossary.md
   - Duties:
     - duties/duty-finder.md
