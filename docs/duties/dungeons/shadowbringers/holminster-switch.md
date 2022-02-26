@@ -13,6 +13,10 @@
 5. Arrive in the Manor House Courtyard: 0/1
 6. Defeat Philia: 0/1
 
+## The Bruise (Trash)
+
+- No notable trash mobs.
+
 ## Forgiven Dissonance
 
 - **The Path of Light** — ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Party damage (moderate)
