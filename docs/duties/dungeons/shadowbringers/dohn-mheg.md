@@ -49,10 +49,11 @@
     Beware of **Toad Choir** and **Corrosive Bile**. These frontal cleaves will be performed in a random direction and do not have AoE indicators.
 
 - **Crippling Blow** — ![](/assets/icons/role-sq_tank.png){:class="icon-role"} Tank buster.
-- **Virtuosic Capriccio** — ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Party damage (moderate) and Bleed debuffs.
+- **Virtuosic Capriccio** — ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Party damage (moderate) and applies Bleed debuffs.
 - **Toad Choir** — Large frontal cleave which will turn any players hit into a useless toad.
 - **Funambulist’s Fantasia**
     - Navigate across narrow walkway to reach the boss.
+        - If you fall, you will be teleported back to the starting platform.
     - **Finale** — ![](/assets/icons/role-sq_dps.png){:class="icon-role"} Destroy **Liar's Lyre** before this cast finishes, or else party will wipe.
 - **Changeling's Fantasia**
     - **Corrosive Bile** — Frontal cone AoE.
