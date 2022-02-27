@@ -8,12 +8,12 @@
 
 ## Amhuluk
 
-- 
+-
 
 ## Magitek Fortress
 
-- 
+-
 
 ## Lunar Bahamut
 
-- 
+-

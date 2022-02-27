@@ -17,12 +17,12 @@
 
 !!! danger "Do not discard relic weapon"
     Do not discard your relic weapon! You will not be able to purchase any of the replicas without having the completed relic weapon in your inventory from [Drake](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/f2cb98f29d2/) (North Shroud, `X:30.3, Y:20.1`).
-    
+
     If you accidently discarded your relic weapon, you will only be able to get back the initial step of the relic ([Zenith](#2-zenith)) from a Calamity Salvager NPC located in the main cities:
-    
+
     - [Old Gridania](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/350cd619ffd/) (`X:10, Y:8.4`)
     - [Limsa Lominsa Upper Decks](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/9d03aec955c/) (`X:11.3, Y:14.3`)
-    - [Ul'dah](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/67872c11c61/) (`X:12.6, Y:13.1`) 
+    - [Ul'dah](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/67872c11c61/) (`X:12.6, Y:13.1`)
 
 ## Stages
 
@@ -38,7 +38,7 @@
 ## Prerequisites
 
 - Completed Main Scenario Quest: [The Ultimate Weapon](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3ab32cfebf8/)
-- Completed all A Realm Reborn quests for your chosen job of: Paladin, Warrior, Monk, Dragoon, Bard, Ninja, Black Mage, Summoner, White Mage, or Scholar. 
+- Completed all A Realm Reborn quests for your chosen job of: Paladin, Warrior, Monk, Dragoon, Bard, Ninja, Black Mage, Summoner, White Mage, or Scholar.
     - Any unlisted jobs here cannot obtain A Realm Reborn relic weapon.
 - Have access to the following dungeons and trials:
     - Amdapor Keep
@@ -114,7 +114,7 @@
     | Scholar    | Erudite's Picatrix of Healing | Quicktongue Materia III (x2)  |
 
 !!! warning "Purchasing Crafted Weapons and Materia III from the Market Board"
-    - If you are purchasing already melded weapons from the Market Board, ensure that the correct materia are melded before making your purchase. For example, if you are a Bard, do not purchase a Longarm's Composite Bow with two melded Battledance Materia III. You want a Longarm's Composite Bow with two melded Heavens' Eye Materia III. 
+    - If you are purchasing already melded weapons from the Market Board, ensure that the correct materia are melded before making your purchase. For example, if you are a Bard, do not purchase a Longarm's Composite Bow with two melded Battledance Materia III. You want a Longarm's Composite Bow with two melded Heavens' Eye Materia III.
 
 #### The Chimera
 
@@ -197,7 +197,7 @@
 !!! info "Collecting Atma"
     - You must have a Zenith relic weapon equipped to get Atma.
     - Any FATE in the specified zone can drop Atma, but it must be successfully completed.
-    - Atma crystals are not a guaranteed drop. You can get one from the first FATE you do in a zone, or it can be from the 20th FATE. 
+    - Atma crystals are not a guaranteed drop. You can get one from the first FATE you do in a zone, or it can be from the 20th FATE.
 
     | Region           | Zone              | Atma                     |
     | :--------------- | :---------------- | :----------------------- |
@@ -250,7 +250,7 @@
     - Unequip your relic weapon.
     - Select dialogue option: `Relic Weapon Atma Enhancement`
 5. Congratulations! You have completed this stage.
-    - For whatever reason, the last book will remain in your `Key Items` inventory. 
+    - For whatever reason, the last book will remain in your `Key Items` inventory.
     - To remove the last book, return to G'jusana and select dialogue option: `Disposal`
 
 !!! tip
@@ -273,8 +273,8 @@
 
 !!! example "Personal Experience"
     This is a very time-consuming stage. Ready a music playlist, show series, or podcast. You are going to need it.
-    
-    I would recommend that you complete all tasks in one zone before moving onto the next zone to save yourself teleport fees. Generally, moving in this region order will be cheapest: 
+
+    I would recommend that you complete all tasks in one zone before moving onto the next zone to save yourself teleport fees. Generally, moving in this region order will be cheapest:
 
     1. Mor Dhona
     2. Coerthas Central Highlands
@@ -303,7 +303,7 @@
     | The Tam-Tara Deepcroft   |
     | The Stone Vigil          |
     | The Lost City of Amdapor |
- 
+
     | FATEs                  | Location                                                                                                                                                          |
     | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | Giant Seps             | The Coerthas Central Highlands (`X:8.6, Y:12.1`)                                                                                                                  |
@@ -612,7 +612,7 @@
     - Select dialogue option: `Relic Weapon Animus Enhancement`
 5. Congratulations! You have completed this stage.
 
-??? info "Mysterious Maps: Method 1 — Daily Duty Roulette" 
+??? info "Mysterious Maps: Method 1 — Daily Duty Roulette"
     1. Speak with Ealdwine (North Shroud, `X:29.5, Y:19.7`) to pick up quest: [One Man's Trash](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e07310dc045/)
     2. Speak with [Brangwine](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/2936f6414cc/) (Mor Dhona, `X:21.9, Y:6.7`).
     3. She will offer a daily quest [Morbid Motivation](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/ff0d9aa6841/) which will reward one Mysterious Map. This quest requires you to complete a Duty Roulette.
@@ -622,7 +622,7 @@
         - Purchase a Mysterious Map (x15) for 75 Poetics each for a total of 1,125 Poetics.
         - You can only hold a maximum of three Mysterious Maps at a time.
     2. Deciper the map in your inventory by right-clicking the map > `Decipher`
-        
+
     3. Find the location marked on your mysterious map.
     4. Use `Action & Traits` > `General` > `Dig` > Loot Treasure Coffer
     5. You will receive Alexandrite (x5) from each Mysterious Map.
@@ -665,11 +665,11 @@
 5. Report back to Jalzahn.
     - Unequip your Novus weapon.
     - Select dialogue option: `Relic Weapon Novus Enhancement`
-6. Congratulations! You have completed this stage. 
+6. Congratulations! You have completed this stage.
 
 !!! info "Light Points"
     - You will need to obtain 2000 light points. However, there is no numerical indicator in the game. Instead, you can use the Zodiac Glass to determine your progress:
-    
+
         | Light Level | Light Value |
         | :---------- | :---------: |
         | No Activity |    0-199    |
@@ -717,14 +717,14 @@
 
 !!! example "Personal Experience"
     I would recommend running The Aurum Vale unsycned repeatedly until you have earned all 2000 light points. It is less tedious than running Sastasha or Tam-Tara Deepcroft because you don't have to interact with anything to progress through the dungeon. You only have to kill 6 enemies. You can run through all enemies except 3 Goldvine morbols to open walls and the 3 bosses. At the end of the dungeon, open the `Duty Finder` > `Leave` to quickly exit the duty. If you try to exit through the portal at the end, you risk being interrupted by all the enemies you skipped that followed you.
-    
+
     As a level 90 Bard, one Aurum Vale run took about 2 minutes and 10 seconds and gave Brilliant light (48 points). Thus, it will take 42 runs of Aurum Vale to acquire enough light points. Otherwise stated, about two hours of continuous farming.
 
 ## 7. Zodiac Braves
 
 !!! summary "Cost"
-    - 424,000 gil 
-    - Even more gil if you do not have all crafting jobs at 50+ level 
+    - 424,000 gil
+    - Even more gil if you do not have all crafting jobs at 50+ level
     - 800 Allagan Tomestones of Poetics for Sacred Spring Water (200 each x4)
     - 80,000 Grand Company Seals for Bombard Core (20,000 each x4)
 
@@ -802,7 +802,7 @@
 3. Speak with Rowena.
 4. Report back to Gerolt.
 5. Speak with Remon (Western La Noscea, `X:34.3, Y:31.7`).
-6. Purchase 12 Mahatmas from Remon and complete activities with your relic weapon equipped to increase its soul resonance. 
+6. Purchase 12 Mahatmas from Remon and complete activities with your relic weapon equipped to increase its soul resonance.
     - You can only purchase one Mahatma at a time from `Mahatma Exchange`.
     - Each Mahatma will cost 50 Poetics for a total of 600 Poetics.
     - You can check the level of soul resonance by using the Zodiac Glass.
@@ -810,13 +810,13 @@
 7. Report back to Jalzahn.
     - Unequip your weapon.
     - Select dialogue option: `Zodiac Awakening`
-8. Congratulations! You have completed your A Realm Reborn relic weapon. 
+8. Congratulations! You have completed your A Realm Reborn relic weapon.
 
 !!! info "Mahatmas"
-    List of Mahatma:  
+    List of Mahatma:
     ![](assets/zodiac-weapons_mahatmas.png)
 
-    Using the Zodiac Glass to check soul resonance level of a Mahatma:  
+    Using the Zodiac Glass to check soul resonance level of a Mahatma:
     ![](assets/zodiac-weapons_mahatma-complete.png)
 
 !!! example "Personal Experience"

@@ -13,7 +13,7 @@
 5. Defeat Denn the Orcatoothed: 0/1
 
 ???+ tip "Bloody Memo"
-    At the beginning of the dungeon, there is an alcove to the south where you will find a Bloody Memo. Reading this note will reveal which upcoming Coral Formation will spawn the first boss. 
+    At the beginning of the dungeon, there is an alcove to the south where you will find a Bloody Memo. Reading this note will reveal which upcoming Coral Formation will spawn the first boss.
 
     | Quote                               | Safe Switch |
     | :---------------------------------- | :---------- |

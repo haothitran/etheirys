@@ -8,12 +8,12 @@
 
 ## Seeker of Solitude
 
-- 
+-
 
 ## Leannan Sith
 
-- 
+-
 
 ## Lugus
 
-- 
+-

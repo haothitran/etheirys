@@ -34,7 +34,7 @@
 
 - **The Tickler** — ![](/assets/icons/role-sq_tank.png){:class="icon-role"} Tank buster.
 - **Scold's Bridle** — ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Party damage (moderate).
-- **Fever Flagellation** 
+- **Fever Flagellation**
     - Each party member will receive a number above their heads (1—4), then boss will charge at each player in order of numbers while dealing damage to anyone else in the way.
     - Spread to avoid party members' charge.
 - **Exorcise**

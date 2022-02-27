@@ -8,11 +8,11 @@
 
 ## OSpectral Thief
 
-- 
+-
 
 ## Spectral Necromancer
 
-- 
+-
 
 ## Spectral Berserker
 

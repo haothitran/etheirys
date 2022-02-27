@@ -8,12 +8,12 @@
 
 ## Greater Armadillo
 
-- 
+-
 
 ## Amphibious Talos
 
-- 
+-
 
 ## Storge
 
-- 
+-

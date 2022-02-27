@@ -1,6 +1,6 @@
 # Dungeons
 
-Dungeons are instanced areas specific to a party consisting of trash mobs and bosses. Most dungeons follow a basic format of three boss encounters interspersed with trash fights. 
+Dungeons are instanced areas specific to a party consisting of trash mobs and bosses. Most dungeons follow a basic format of three boss encounters interspersed with trash fights.
 
 Using the Duty Finder, players can enter a dungeon after they have met the required level and/or average item level equipped. Players that are above the level requirement will be synced down to the maximum level permitted to enter the dungeon. Note that abilities and skills will also be synced down (for example: a level 60 ability will not be usable in a level 40 dungeon).
 
@@ -118,4 +118,3 @@ Below you will find quick tips for trash fights and boss encounters. Additionall
 | The Dead Ends         |  90   |        540         |       560       |
 | Smileton              |  90   |        540         |       560       |
 | The Stigma Dreamscape |  90   |        540         |       560       |
-

@@ -8,12 +8,12 @@
 
 ## The First Beast
 
-- 
+-
 
 ## Terminus Bellwether
 
-- 
+-
 
 ## Therion
 
-- 
+-

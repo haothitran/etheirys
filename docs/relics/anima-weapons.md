@@ -71,23 +71,23 @@
 
 1. Speak to [Ardashir](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/08cc9e30841/) (Azys Lla, `X:7.4, Y:11.5`) to pick up the quest: [Soul without Life](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/0136a6df60a/)
 2. Speak with Rowena (Mor Dhona, `X:21.9, Y:4.9`).
-3. Speak with [Syndony](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/0e148938969/) (Mor Dhona, `X:22.6, Y:5.8`) upstairs on the balcony. 
+3. Speak with [Syndony](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/0e148938969/) (Mor Dhona, `X:22.6, Y:5.8`) upstairs on the balcony.
     - She will provide the required Astral Nodule (x1) and Umbral Nodule (x1) from one of the following methods:
         1. Trade in a Zodiac Zeta relic weapon to receive both Nodules. This is the final stage of an A Realm Reborn relic weapon.
         2. Trade in one Luminous Crystal of each type (x6) from successfully completing FATEs in specific zones.
 4. Report back to Ardashir.
-5. Congratulations! You have completed this stage. 
+5. Congratulations! You have completed this stage.
 
 !!! danger "Option 1: Trade in Zodiac Zeta relic weapon"
-    This will destroy your A Realm Reborn relic weapon! 
-    
-    If you decide to trade in your Zodiac Zeta weapon, ensure that you have finished [The Vital Title](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/edcdb18b80f/) quest from Jalzahn (North Shroud, `X:29.5, Y:19.6`). Completing this quest allows you purchase replicas of your A Ream Reborn relic weapon from Drake (North Shroud, `X:30.3, Y:20.1`). 
-    
+    This will destroy your A Realm Reborn relic weapon!
+
+    If you decide to trade in your Zodiac Zeta weapon, ensure that you have finished [The Vital Title](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/edcdb18b80f/) quest from Jalzahn (North Shroud, `X:29.5, Y:19.6`). Completing this quest allows you purchase replicas of your A Ream Reborn relic weapon from Drake (North Shroud, `X:30.3, Y:20.1`).
+
     If you did not complete this quest before trading in your Zodiac Zeta weapon, you are out of luck and will only be able to get back the initial step of the relic ([Zenith](/relics/zodiac-weapons/#2-zenith)) from a Calamity Salvager NPC located in the main cities:
-    
+
     - [Old Gridania](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/350cd619ffd/) (`X:10, Y:8.4`)
     - [Limsa Lominsa Upper Decks](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/9d03aec955c/) (`X:11.3, Y:14.3`)
-    - [Ul'dah](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/67872c11c61/) (`X:12.6, Y:13.1`) 
+    - [Ul'dah](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/67872c11c61/) (`X:12.6, Y:13.1`)
 
 !!! info "Option 2: Collecting Luminous Crystals"
     - To receive any Luminous Crystals from FATEs, you must have in your quest Journal: [Soul without Life](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/0136a6df60a/)
@@ -119,7 +119,7 @@
 
 ### Toughening Up
 
-!!! note 
+!!! note
     - You can complete dungeons unsynced in an Unrestricted Party.
 
 1. Speak with Ardashir with your relic weapon equipped to pick up the quest: [Toughening Up](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3a19d47a205/)
@@ -135,7 +135,7 @@
     9. The Aery
     10. The Vault
 6. Report back to Ardashir (Azys Lla, `X:7.4, Y:11.5`) with your relic weapon equipped.
-7. Congratulations! You have completed this stage. 
+7. Congratulations! You have completed this stage.
 
 ## 3. Anima
 
@@ -157,7 +157,7 @@
 2. Speak with Cristiana (Mor Dhona, `X:21.3, Y:5.4`).
     - Trade items with Cristiana for the required `Anima Weapon Materials`.
 4. Deliver the materials to Gerolt (Azys Lla, `X:7.4, Y:11.5`) with your relic weapon unequipped.
-5. Congratulations! You have completed this stage. 
+5. Congratulations! You have completed this stage.
 
 !!! info "Anima Weapon Materials"
     - Both required items can be obtained from multiple sources
@@ -216,7 +216,7 @@
         - Sold by [Hismena](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/02b3c29bf1c/) (Idyllshire, `X:5.7, Y:5.2`) > `Special Arms` > `Others`
         - Sold by Rowena's Representatives in main cities > `Combat Supplies` > `Special Arms Materials`
 3. Report back to Ardashir.
-4. Congratulations! You have completed this stage. 
+4. Congratulations! You have completed this stage.
 
 ## 5. Reconditioned
 
@@ -235,7 +235,7 @@
     - `Treat Sand` to convert your Crystal Sands and Umbrites.
     - Add points to attributes until you reach a total of 240 points.
 5. Report back to Ardashir with your relic weapon unequipped.
-6. Congratulations! You have completed this stage. 
+6. Congratulations! You have completed this stage.
 
 !!! info "Umbrites"
     - Purchase with Poetics.
@@ -270,7 +270,7 @@
         ![](assets/anima-weapons_treat-crystal-sand.png)
 
     !!! example "Personal Experience"
-        - You can farm for Amber-encased Vilekin by spamming one levequest up to your leve allowance. 
+        - You can farm for Amber-encased Vilekin by spamming one levequest up to your leve allowance.
         - Leve allowances stack up to 100 maximum and recharges 3 allowances every 12 hours real time.
 
         1. Speak with Elion (The Foundation, `X:10.1, Y:10.3`) > `Battlecraft Leves` > `Level 50` > `Necrologos: Of Sallow Vizards`
@@ -296,7 +296,7 @@
 1. Speak with Ardashir to pick up the quest: [Future Proof](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/855114f5906/)
 2. Speak with Blamprest (Idyllshire, `X:7.9, Y:6`).
 3. Obtain Singing Clusters (x50).
-    - From a repeatable quests: 
+    - From a repeatable quests:
         - Daily — [Cut from a Different Cloth](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/d5e9310f06b/) from [Angelet](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/5fd17d357a2/) (Idyllshire, `X:7.9, Y:5.8`)
         - Weekly — [Seeking Inspiration](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3e8fe25633a/) from [Amphelice](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/868ad0c529e/) (Idyllshire, `X:7.9, Y:5.8`)
     - Purchase with 2,000 Allagan Tomestones of Poetics.
@@ -305,7 +305,7 @@
         - Sold by Rowena's Representatives in main cities > `Combat Supplies` > `Special Arms Materials`
 4. Report back to Balmprest.
 5. Report back to Ardashir with your relic weapon unequipped.
-6. Congratulations! You have completed this stage. 
+6. Congratulations! You have completed this stage.
 
 !!! info "Repeatable quests"
     - Daily — [Cut from a Different Cloth](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/d5e9310f06b/) from [Angelet](https://na.finalfantasyxiv.com/lodestone/playguide/db/npc/npc/5fd17d357a2/) (Idyllshire, `X:7.9, Y:5.8`)
@@ -346,7 +346,7 @@
 6. Interact with with the Verification Node (Azys Lla, `X:7, Y:11.5`).
 7. Complete quest: [Some Assembly Required](#some-assembly-required)
 8. Report back to Gerolt with your weapon unequipped and the required Newborn Soulstone (x1).
-9. Congratulations! You have completed this stage. 
+9. Congratulations! You have completed this stage.
 
 !!! info "Aetheric Density"
     - You will need to obtain 2000 aetheric density points. However, there is no numerical indicator in the game. Instead, you can use the Enhanced Anima Glass to determine your progress:
@@ -378,9 +378,9 @@
         | Alexander 9-12 Raids (Savage) | ?                       |     ?      |      ?      |
 
 ??? example "Personal Experience"
-    I recommend running Alexander - The Eyes of the Creator (Savage) (A9S) unsynced repeatedly until you have earned all 2000 aetheric desity points. 
+    I recommend running Alexander - The Eyes of the Creator (Savage) (A9S) unsynced repeatedly until you have earned all 2000 aetheric desity points.
 
-    As a level 90 Machinist, one A9S run took about 2 minutes and 30 seconds. 
+    As a level 90 Machinist, one A9S run took about 2 minutes and 30 seconds.
 
 ### Some Assembly Required
 
@@ -433,7 +433,7 @@
     - Sold by [Auriana](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/27773b8b4a7/) (Mor Dhona, `X:22.7, Y:6.6`) > `Special Arms` > `Others`
     - Sold by [Hismena](https://na.finalfantasyxiv.com/lodestone/playguide/db/shop/02b3c29bf1c/) (Idyllshire, `X:5.7, Y:5.2`) > `Special Arms` > `Others`
     - Sold by Rowena's Representatives in main cities > `Combat Supplies` > `Special Arms Materials`
-7. Congratulations! You have completed your Heavensward relic weapon. 
+7. Congratulations! You have completed your Heavensward relic weapon.
 
 ## Replicas
 

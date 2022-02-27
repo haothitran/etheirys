@@ -8,12 +8,12 @@
 
 ## Forgiven Cruelty
 
-- 
+-
 
 ## Forgiven Whimsy
 
-- 
+-
 
 ## Forgiven Obscenity
 
-- 
+-
