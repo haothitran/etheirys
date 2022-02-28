@@ -22,13 +22,13 @@
 - **The Path of Light** — ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Party damage (moderate).
 - **Pillory** — ![](/assets/icons/role-sq_tank.png){:class="icon-role"} Tank buster.
 - Dodge various AoEs from boss and white orbs that spawn around room.
-    - **Brazen Bull** — Summons white orbs that will cause cross AoEs.
+    - **Brazen Bull** — Summons white orbs that will deal cross AoEs.
     - **Thumbscrew** — Boss will charge towards edge of arena.
-    - **Wooden Horse** — After Thumbscrew, boss will face center of arena for large frontal cone AoE.
+    - **Wooden Horse** — Boss will face center of arena for large frontal cone AoE.
 
 ## The Blackened Meadow (Trash)
 
-- ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Healers use ![](/assets/icons/ability_esuna.png){:class="icon-ability"} Esuna to remove Slow debuff from party members.
+- ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Healers use ![](/assets/icons/ability_esuna.png){:class="icon-ability"} Esuna to remove **Slow** debuff from party members.
 
 ## Tesleen, The Forgiven
 
@@ -36,7 +36,7 @@
 - **Scold's Bridle** — ![](/assets/icons/role-sq_healer.png){:class="icon-role"} Party damage (moderate).
 - **Fever Flagellation**
     - Each party member will receive a number above their heads (1—4), then boss will charge at each player in order of numbers while dealing damage to anyone else in the way.
-    - Spread to avoid party members' charge.
+    - Spread to splash damage from charges.
 - **Exorcise**
     - Stack marker on random player followed by puddle AoE in same spot.
     - Stack to split damage, then move out of incoming puddle AoEs.
