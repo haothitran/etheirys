@@ -39,29 +39,29 @@
 
 ## Heavensward
 
-| **Job**                                                               | **Role**                                                                | **Prerequisite**    | **Starting Level** | **Starting City** |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------- | ------------------ | ----------------- |
-| ![](/assets/icons/job_dark-knight.png){:class="icon-job"} Dark Knight | ![](/assets/icons/role_tank.png){:class="icon-role"} Tank               | Level 50 Main Story | 30                 | Ishgard           |
-| ![](/assets/icons/job_astrologian.png){:class="icon-job"} Astrologian | ![](/assets/icons/role_healer.png){:class="icon-role"} Healer           | Level 50 Main Story | 30                 | Ishgard           |
-| ![](/assets/icons/job_machinist.png){:class="icon-job"} Machinist     | ![](/assets/icons/role_dps.png){:class="icon-role"} Physical Ranged DPS | Level 50 Main Story | 30                 | Ishgard           |
+| **Job**                                                               | **Role**                                                                                  | **Prerequisite**    | **Starting Level** | **Starting City** |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------- | ------------------ | ----------------- |
+| ![](/assets/icons/job_dark-knight.png){:class="icon-job"} Dark Knight | ![](/assets/icons/role_tank.png){:class="icon-role"} Tank                                 | Level 50 Main Story | 30                 | Ishgard           |
+| ![](/assets/icons/job_astrologian.png){:class="icon-job"} Astrologian | ![](/assets/icons/role_healer.png){:class="icon-role"} Healer                             | Level 50 Main Story | 30                 | Ishgard           |
+| ![](/assets/icons/job_machinist.png){:class="icon-job"} Machinist     | ![](/assets/icons/role_dps_ranged-physical.png){:class="icon-role"} DPS — Ranged Physical | Level 50 Main Story | 30                 | Ishgard           |
 
 ## Stormblood
 
-| **Job**                                                         | **Role**                                                                            | **Prerequisite** | **Starting Level** | **Starting City** |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
-| ![](/assets/icons/job_samurai.png){:class="icon-job"} Samurai   | ![](/assets/icons/role_dps_melee.png){:class="icon-role"} Melee DPS                 | Level 50         | 50                 | Ul'dah            |
-| ![](/assets/icons/job_red-mage.png){:class="icon-job"} Red Mage | ![](/assets/icons/role_dps_ranged-magical.png){:class="icon-role"} Magic Ranged DPS | Level 50         | 50                 | Ul'dah            |
+| **Job**                                                         | **Role**                                                                                | **Prerequisite** | **Starting Level** | **Starting City** |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
+| ![](/assets/icons/job_samurai.png){:class="icon-job"} Samurai   | ![](/assets/icons/role_dps_melee.png){:class="icon-role"} DPS — Melee                   | Level 50         | 50                 | Ul'dah            |
+| ![](/assets/icons/job_red-mage.png){:class="icon-job"} Red Mage | ![](/assets/icons/role_dps_ranged-magical.png){:class="icon-role"} DPS — Ranged Magical | Level 50         | 50                 | Ul'dah            |
 
 ## Shadowbringers
 
-| **Job**                                                             | **Role**                                                                                | **Prerequisite** | **Starting Level** | **Starting City** |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
-| ![](/assets/icons/job_gunbreaker.png){:class="icon-job"} Gunbreaker | ![](/assets/icons/role_tank.png){:class="icon-role"} Tank                               | Level 60         | 60                 | Gridania          |
-| ![](/assets/icons/job_dancer.png){:class="icon-job"} Dancer         | ![](/assets/icons/role_dps_ranged-physical.png){:class="icon-role"} Physical Ranged DPS | Level 60         | 60                 | Limsa Lominsa     |
+| **Job**                                                             | **Role**                                                                                  | **Prerequisite** | **Starting Level** | **Starting City** |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
+| ![](/assets/icons/job_gunbreaker.png){:class="icon-job"} Gunbreaker | ![](/assets/icons/role_tank.png){:class="icon-role"} Tank                                 | Level 60         | 60                 | Gridania          |
+| ![](/assets/icons/job_dancer.png){:class="icon-job"} Dancer         | ![](/assets/icons/role_dps_ranged-physical.png){:class="icon-role"} DPS — Ranged Physical | Level 60         | 60                 | Limsa Lominsa     |
 
 ## Endwalker
 
-| **Job** | **Role**                                                            | **Prerequisite** | **Starting Level** | **Starting City** |
-| ------- | ------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
-| Sage    | ![](/assets/icons/role_healer.png){:class="icon-role"} Healer       | Level 70         | 70                 | Limsa Lominsa     |
-| Reaper  | ![](/assets/icons/role_dps_melee.png){:class="icon-role"} Melee DPS | Level 70         | 70                 | Ul'dah            |
+| **Job** | **Role**                                                              | **Prerequisite** | **Starting Level** | **Starting City** |
+| ------- | --------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
+| Sage    | ![](/assets/icons/role_healer.png){:class="icon-role"} Healer         | Level 70         | 70                 | Limsa Lominsa     |
+| Reaper  | ![](/assets/icons/role_dps_melee.png){:class="icon-role"} DPS — Melee | Level 70         | 70                 | Ul'dah            |
