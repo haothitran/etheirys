@@ -1,7 +1,7 @@
 site_name: Etheirys
 site_author: Hao Tran
 site_description: >-
-  A personal reference guide for FFXIV. 
+  A personal reference guide for FFXIV.
 
 repo_url: https://github.com/haothitran/etheirys
 repo_name: haothitran/etheirys
@@ -27,8 +27,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.expand
-    - toc.integrate # integrate table of contents to left sidebar
-    - navigation.top 
+    - navigation.top
+    # - toc.integrate # integrate table of contents to left sidebar
 
 copyright: All artwork, text, and other assets for FINAL FANTASY XIV © 2010-2022 SQUARE ENIX CO., LTD.
 extra:
@@ -45,7 +45,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences # allows nesting content blocks
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - toc:
       permalink: ⚓︎ # add anchor links to headers
       toc_depth: 2 # limit table of contents depth
@@ -57,9 +57,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - def_list
 
-nav: 
+nav:
   - Home: index.md
-  - General: 
+  - General:
     - general/index.md
     - Jobs: general/jobs.md
     - Chat Log: general/chat-log.md
