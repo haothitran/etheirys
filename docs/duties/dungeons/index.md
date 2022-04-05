@@ -90,21 +90,21 @@ Below you will find quick tips for trash fights and boss encounters. Additionall
 
 ## Shadowbringers
 
-| Dungeon                                                   | Level | Average Item Level | Loot Item Level |
-| :-------------------------------------------------------- | :---: | :----------------: | :-------------: |
-| [Holminster Switch](shadowbringers/holminster-switch)     | 71-72 |        370         |       390       |
-| [Dohn Mheg](shadowbringers/dohn-mheg)                     | 73-74 |        375         |       400       |
-| [The Qitana Ravel](shadowbringers/the-qitana-ravel)       | 75-76 |        380         |       406       |
-| [Malikah's Well](shadowbringers/malikahs-well)            | 77-78 |        385         |       412       |
-| [Mt. Gulg](shadowbringers/mt-gulg)                        | 79-80 |        390         |       418       |
-| [Amaurot](shadowbringers/amaurot)                         |  80   |        410         |       430       |
-| [The Twinning](shadowbringers/the-twinning)               |  80   |        410         |       430       |
-| [Akadaemia Anyder](shadowbringers/akadaemia-anyder)       |  80   |        410         |       430       |
-| [The Grand Cosmos](shadowbringers/the-grand-cosmos)       |  80   |        430         |       445       |
-| [Anamnesis Anyder](shadowbringers/anamnesis-anyder)       |  80   |        440         |       455       |
-| [The Heroes' Gauntlet](shadowbringers/the-heros-gauntlet) |  80   |        460         |       475       |
-| [Matoya's Relict](shadowbringers/matoyas-relict)          |  80   |        470         |       485       |
-| [Paglth'an](shadowbringers/paglthan)                      |  80   |        490         |       505       |
+| Dungeon                                               | Level | Average Item Level | Loot Item Level |
+| :---------------------------------------------------- | :---: | :----------------: | :-------------: |
+| [Holminster Switch](shadowbringers/holminster-switch) | 71-72 |        370         |       390       |
+| [Dohn Mheg](shadowbringers/dohn-mheg)                 | 73-74 |        375         |       400       |
+| [The Qitana Ravel](shadowbringers/the-qitana-ravel)   | 75-76 |        380         |       406       |
+| [Malikah's Well](shadowbringers/malikahs-well)        | 77-78 |        385         |       412       |
+| Mt. Gulg                                              | 79-80 |        390         |       418       |
+| Amaurot                                               |  80   |        410         |       430       |
+| The Twinning                                          |  80   |        410         |       430       |
+| Akadaemia Anyder                                      |  80   |        410         |       430       |
+| The Grand Cosmos                                      |  80   |        430         |       445       |
+| Anamnesis Anyder                                      |  80   |        440         |       455       |
+| The Heroes' Gauntlet                                  |  80   |        460         |       475       |
+| Matoya's Relict                                       |  80   |        470         |       485       |
+| Paglth'an                                             |  80   |        490         |       505       |
 
 ## Endwalker
 
