@@ -110,10 +110,10 @@ Below you will find quick tips for trash fights and boss encounters. Additionall
 
 | Dungeon               | Level | Average Item Level | Loot Item Level |
 | :-------------------- | :---: | :----------------: | :-------------: |
-| The Tower of Zot      |  81   |        500         |       520       |
-| The Tower of Babil    |  83   |        505         |       530       |
-| Vanaspati             |  85   |        510         |       536       |
-| Ktisis Hyperboreia    |  87   |        515         |       542       |
+| The Tower of Zot      | 81-82 |        500         |       520       |
+| The Tower of Babil    | 83-84 |        505         |       530       |
+| Vanaspati             | 85-86 |        510         |       536       |
+| Ktisis Hyperboreia    | 87-88 |        515         |       542       |
 | The Aitiascope        |  89   |        520         |       548       |
 | The Dead Ends         |  90   |        540         |       560       |
 | Smileton              |  90   |        540         |       560       |

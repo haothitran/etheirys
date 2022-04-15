@@ -10,7 +10,7 @@
 | The Bowl of Embers           | Ifrit                    | 20-22 |         -          |        -        |
 | The Navel                    | Titan                    | 34-36 |         -          |        -        |
 | The Howling Eye              | Garuda                   | 44-46 |         -          |        -        |
-| Cape Westwind                | Rihtahtyn sas Arvina     | 49-50 |         -          |        -        |
+| The Porta Decumana           | The Ultima Weapon        |  50   |         -          |        -        |
 | The Chrysalis                | Nabriales                |  50   |         90         |        -        |
 | The Steps of Faith           | Vishap                   |  50   |         90         |        -        |
 | A Relic Reborn: The Chimera  | Chimera                  |  50   |         52         |        -        |
@@ -112,11 +112,12 @@
 
 | Trial             | Boss          | Level | Average Item Level | Loot Item Level |
 | :---------------- | :------------ | :---: | :----------------: | :-------------: |
-| The Dark Inside   | Zodiark       | 83-84 |         -          |                 |
-| The Mothercrystal | Hydaelyn      |  89   |         -          |                 |
-| The Final Day     | The Endsinger |  90   |        540         |                 |
+| The Dark Inside   | Zodiark       | 83-84 |         -          |        -        |
+| The Mothercrystal | Hydaelyn      |  89   |         -          |        -        |
+| The Final Day     | The Endsinger |  90   |        540         |        -        |
 
-| High-End Trial                                                                             | Boss     | Level | Average Item Level | Loot Item Level |
-| :----------------------------------------------------------------------------------------- | :------- | :---: | :----------------: | :-------------: |
-| The Minstrel's Ballad: Zodiark's Fall                                                      | Zodiark  |  90   |        560         |                 |
-| [The Minstrel's Ballad: Hydaelyn's Call](endwalker/the-minstrels-ballad-hydaelyns-call.md) | Hydaelyn |  90   |        560         |                 |
+| High-End Trial                                                                             | Boss          | Level | Average Item Level | Loot Item Level |
+| :----------------------------------------------------------------------------------------- | :------------ | :---: | :----------------: | :-------------: |
+| The Minstrel's Ballad: Zodiark's Fall                                                      | Zodiark       |  90   |        560         |       580       |
+| [The Minstrel's Ballad: Hydaelyn's Call](endwalker/the-minstrels-ballad-hydaelyns-call.md) | Hydaelyn      |  90   |        560         |       580       |
+| The Minstrel's Ballad: Endsinger's Aria                                                    | The Endsinger |  90   |        580         |       595       |
