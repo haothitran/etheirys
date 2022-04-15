@@ -1,0 +1,28 @@
+/*------------------------------------------------------------------------------
+-- // EXTRA STYLESHEET
+------------------------------------------------------------------------------*/
+
+footer { margin-top: 4em; }
+
+h2 { padding-top: 1em; }
+
+.icon-job {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+  margin-bottom: 3px;
+  vertical-align: bottom;
+}
+.icon-role {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+  margin-bottom: 3px;
+  vertical-align: bottom;
+}
+.icon-ability {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 3px;
+  vertical-align: bottom;
+}
